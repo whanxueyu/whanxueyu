@@ -10,10 +10,9 @@
 <img height="28px" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=whanxueyu.demo-collection&left_color=blue&right_color=orange">
 <br>
 <h5 align="center">
-  <code><a href="https://juejin.cn/user/4169764191092407" title="juejin Profile"><img width="22" src="images/juejin.svg">稀土掘金</a></code>
-  <code><a href="https://www.douyin.com" title="douyin"><img width="22" src="images/douyin.png"> HackerRank</a></code>
-  <code><a href="https://gitee.com/whaxy" title="Gitee Profile"><img width="22" src="images/gitee.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://juejin.cn/user/4169764191092407" title="juejin Profile"><img height="22" width="22" src="images/juejin_fill.svg"> 稀土掘金</a></code>
+  <code><a href="https://www.douyin.com" title="douyin"><img width="22" src="images/douyin.svg"> DouYin</a></code>
+  <code><a href="https://gitee.com/whaxy" title="Gitee Profile"><img width="22" src="images/gitee.svg"> Gitee</a></code>
 </h5>
 <br>
 <p align="center">
@@ -30,6 +29,32 @@
   💬 Ask me anything about from <a href="https://github.com/whanxueyu/whanxueyu/issues" title="Issues">Here</a>
   <br>
 </p>
+
+
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="Javascript" height="25" src="images/JavaScript.svg"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="SASS" height="25" src="images/sass.svg"></code>
+  <code><img title="Vue" height="25" src="images/vue.svg"></code>
+  <code><img title="Typescript" height="25" src="images/typescript.svg"></code>
+  <code><img title="Git" height="25" src="images/git.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.svg"></code>
+  <code><img title="JQuery" height="25" src="images/jQuery.svg"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="uni-app" height="25" src="images/uni-app.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="Gitee" height="25" src="images/gitee.svg"></code>
+  <code><img title="NodeJs" height="25" src="images/nodejs.svg"></code>
+  <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img title="cesium" height="25" src="images/cesium.svg"></code>
+  <code><img title="webGL" height="25" src="images/webgl.svg"></code>
+</p>
+<hr>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -54,31 +79,6 @@
 </p>
 
 <hr>
-
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="Javascript" height="25" src="images/javaScript.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="Vue" height="25" src="images/vue.svg"></code>
-  <code><img title="Typescript" height="25" src="images/typescript.svg"></code>
-  <code><img title="Git" height="25" src="images/git.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="JQuery" height="25" src="images/jQuery.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="uni-app" height="25" src="images/uni-app.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="Gitee" height="25" src="images/gitee.svg"></code>
-  <code><img title="NodeJs" height="25" src="images/nodejs.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="cesium" height="25" src="images/cesium.svg"></code>
-  <code><img title="webGL" height="25" src="images/webgl.svg"></code>
-</p>
-<hr>
-
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
