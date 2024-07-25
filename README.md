@@ -10,7 +10,7 @@
 <img height="28px" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=whanxueyu.demo-collection&left_color=blue&right_color=orange">
 <br>
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg">掘金</a></code>
+  <code><a href="https://juejin.cn/user/4169764191092407" title="LinkedIn Profile"><img width="22" src="https://lf-web-assets.juejin.cn/obj/juejin-web/xitu_juejin_web/f5188ac005a69d272fc6161b3c521d15.svg">稀土掘金</a></code>
   <code><a href="https://www.hackerrank.com/whanxueyu" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
