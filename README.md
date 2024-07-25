@@ -1,20 +1,20 @@
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+whanxueyu....;Nice+to+meet+you!&weight=900&size=30&pause=2000&color=F4F7CA&background=1D477B&center=true&vCenter=true">
+  <a href="https://github.com/whanxueyu">
+    <img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+whanxueyu....;Nice+to+meet+you!&weight=900&size=30&pause=2000&color=F4F7CA&background=1D477B&center=true&vCenter=true">
   </a>
 </h1>
-<img align="left" alt="Netlify" src="https://img.shields.io/netlify/5caeca9f-882f-477e-813c-9ca1e77a35f1?style=for-the-badge&label=demo-collection">
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=whanxueyu.demo-collection&left_color=blue&right_color=orange">
+<a href="https://axydemo.netlify.app">
+  <img align="left" alt="Netlify" src="https://img.shields.io/netlify/5caeca9f-882f-477e-813c-9ca1e77a35f1?style=for-the-badge&label=demo-collection">
+</a>
+<img height="28px" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=whanxueyu.demo-collection&left_color=blue&right_color=orange">
 <br>
-<!--
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg">掘金</a></code>
   <code><a href="https://www.hackerrank.com/whanxueyu" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
--->
 <br>
 <p align="center">
   Hi, I'm whanxueyu, Computer Engineer & Software Developer from China.
