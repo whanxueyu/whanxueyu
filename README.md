@@ -39,7 +39,7 @@
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=whanxueyu&theme=jolly&border=61dafb&hide_border=true" alt="whanxueyu" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=whanxueyu&show_icons=true&theme=ambient_gradient&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=whanxueyu&show_icons=true&theme=ambient_gradient&border_color=61dafb&hide_border=true&hide=prs" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
