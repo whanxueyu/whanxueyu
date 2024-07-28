@@ -35,23 +35,23 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Javascript" height="25" src="images/JavaScript.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="Vue" height="25" src="images/vue.svg"></code>
-  <code><img title="Typescript" height="25" src="images/typescript.svg"></code>
-  <code><img title="Git" height="25" src="images/git.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.svg"></code>
-  <code><img title="JQuery" height="25" src="images/jQuery.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="uni-app" height="25" src="images/uni-app.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="Gitee" height="25" src="images/gitee.svg"></code>
-  <code><img title="NodeJs" height="25" src="images/nodejs.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="cesium" height="25" src="images/cesium.svg"></code>
-  <code><img title="webGL" height="25" src="images/webgl.svg"></code>
+  <code><img title="Javascript" height="25" src="images/JavaScript.svg">JavaScript</code>
+  <code><img title="HTML5" height="25" src="images/html5.svg">HTML5</code>
+  <code><img title="CSS" height="25" src="images/css.svg">CSS</code>
+  <code><img title="SASS" height="25" src="images/sass.svg">SASS</code>
+  <code><img title="Vue" height="25" src="images/vue.svg">Vue</code>
+  <code><img title="Typescript" height="25" src="images/typescript.svg">TypeScript</code>
+  <code><img title="Git" height="25" src="images/git.svg">Git</code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.svg">VSCode</code>
+  <code><img title="JQuery" height="25" src="images/jQuery.svg">JQuery</code>
+  <code><img title="JSON" height="25" src="images/json.svg">JSON</code>
+  <code><img title="uni-app" height="25" src="images/uni-app.svg">uni-app</code>
+  <code><img title="GitHub" height="25" src="images/github.svg">GitHub</code>
+  <code><img title="Gitee" height="25" src="images/gitee.svg">Gitee</code>
+  <code><img title="NodeJs" height="25" src="images/nodejs.svg">NodeJs</code>
+  <code><img title="npm" height="25" src="images/npm.svg">npm</code>
+  <code><img title="cesium" height="25" src="images/cesium.svg">cesium</code>
+  <code><img title="webGL" height="25" src="images/webgl.svg">webGL</code>
 </p>
 <hr>
 
@@ -82,7 +82,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/whanxueyu/demo-collection" title="demo-collection"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=whanxueyu&repo=demo-collection&theme=dracula&border_radius=10"></a>
+  <a align="left" href="https://github.com/whanxueyu/demo-collection" title="demo-collection"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=whanxueyu&repo=demo-collection&theme=neon&border_radius=10"></a>
   <a align="right" href="https://github.com/whanxueyu/mars3d-vu3-vite" title="mars3d-vu3-vite"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=whanxueyu&repo=mars3d-vu3-vite&theme=neon&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
