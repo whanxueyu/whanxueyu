@@ -1,4 +1,3 @@
-/
 <h1 align="center">
   <a href="https://github.com/whanxueyu">
     <img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+whanxueyu....;Nice+to+meet+you!&weight=900&size=30&pause=2000&color=F4F7CA&background=1D477B&center=true&vCenter=true">
