@@ -29,53 +29,67 @@
   <br>
 </p>
 
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ 技术栈 & 统计 ⚡</h2>
 <br>
-<p align=center>
-  <div align=center>
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=whanxueyu&theme=jolly&border=61dafb&hide_border=true" alt="whanxueyu" />
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=whanxueyu&show_icons=true&theme=ambient_gradient&border_color=61dafb&hide_border=true&hide=prs" />
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whanxueyu&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-  </div>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whanxueyu&theme=vue&bg_color=20232a&hide_border=true" width="100%"/>
+<p align="center">
+  <!-- 技术栈徽章 -->
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cesium-111111?style=for-the-badge&logo=cesium&logoColor=white" />
+  <br><br>
+  <!-- GitHub 统计 -->
+  <img src="https://streak-stats.demolab.com/?user=whanxueyu&theme=jolly&border=61dafb&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <hr>
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=whanxueyu&theme=vue&bg_color=20232a&hide_border=true" width="100%"/>
+<h2 align="center">👨‍💻 精选项目 👨‍💻</h2>
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/whanxueyu/demo-collection" title="demo-collection"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=whanxueyu&repo=demo-collection&theme=neon&border_radius=10"></a>
-  <a align="right" href="https://github.com/whanxueyu/cyberpunk-ui" title="CyberPunkUI"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=whanxueyu&repo=cyberpunk-ui&theme=neon&border_radius=10"></a>
+<div align="center">
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>🎁 项目名称</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Describe</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/whanxueyu/demo-collection"><b>🎨 demo-collection</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/whanxueyu/demo-collection?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/whanxueyu/demo-collection?style=flat-square&labelColor=343b41"/></td>
+      <td>炫酷的效果，全景VR，cesium案例，数据大屏案例，ORC文字识别</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/whanxueyu/cyberpunk-ui"><b>🔮 cyberpunk-ui</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/whanxueyu/cyberpunk-ui?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/whanxueyu/cyberpunk-ui?style=flat-square&labelColor=343b41"/></td>
+      <td>一个赛博朋克风格的组件库，目前十几个组件，正在完善...</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/whanxueyu/axy-cesium"><b>💼 axy-cesium</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/whanxueyu/axy-cesium?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/whanxueyu/axy-cesium?style=flat-square&labelColor=343b41"/></td>
+      <td>Cesium可视化案例展示平台，写了些cesium功能案例，持续更新功能</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/whanxueyu/vue-free-dialog"><b>⚛️ vue-free-dialog</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/whanxueyu/vue-free-dialog?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/whanxueyu/vue-free-dialog?style=flat-square&labelColor=343b41"/></td>
+      <td>一个基于Vue3+TypeScript+Vite的轻量级对话框组件</td>
+    </tr>
+  </tbody>
+</table>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/>
 
 <h4 align="center">
-  <a href="https://github.com/whanxueyu?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/whanxueyu?tab=repositories" title="Show Repositories">🔎 查看更多项目 🔍</a>
 </h4>
-
-
-<!--
-**whanxueyu/whanxueyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
-
-![Metrics](https://metrics.lecoq.io/whanxueyu?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
-
--->
