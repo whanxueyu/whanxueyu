@@ -83,7 +83,7 @@
       <td><a href="https://github.com/whanxueyu/vue-free-dialog"><b>⚛️ vue-free-dialog</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/whanxueyu/vue-free-dialog?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/whanxueyu/vue-free-dialog?style=flat-square&labelColor=343b41"/></td>
-      <td>一个基于Vue3+TypeScript+Vite的轻量级对话框组件</td>
+      <td>一个轻量级、高自由度弹窗组件，支持拖拽、缩放、折叠、动画等丰富功能。</td>
     </tr>
   </tbody>
 </table>
