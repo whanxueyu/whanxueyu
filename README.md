@@ -6,7 +6,7 @@
 <a href="https://axydemo.netlify.app">
   <img align="left" alt="Netlify" src="https://img.shields.io/netlify/5caeca9f-882f-477e-813c-9ca1e77a35f1?style=for-the-badge&label=demo-collection">
 </a>
-<img height="28px" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=whanxueyu.demo-collection&left_color=blue&right_color=orange">
+<img height="28px" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=whanxueyu.demo-collection&left_color=blue&right_color=yellow">
 <br>
 <h5 align="center">
   <code><a href="https://juejin.cn/user/4169764191092407" title="juejin Profile"><img height="22" width="22" src="images/juejin_fill.svg"> 稀土掘金</a></code>
@@ -38,16 +38,16 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <br><br>
-  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cesium-111111?style=for-the-badge&logo=cesium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-612a6b?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebGL-ff3333?style=for-the-badge&logo=webgl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cesium-20939a?style=for-the-badge&logo=cesium&logoColor=white" />
   <br><br>
   <!-- GitHub 统计 -->
   <img src="https://streak-stats.demolab.com/?user=whanxueyu&theme=jolly&border=61dafb&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <hr>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=whanxueyu&theme=vue&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=whanxueyu&theme=vue&bg_color=311a3b&hide_border=true" width="100%"/>
 <h2 align="center">👨‍💻 精选项目 👨‍💻</h2>
 <br>
 <div align="center">
@@ -63,26 +63,26 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/whanxueyu/demo-collection"><b>🎨 demo-collection</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/whanxueyu/demo-collection?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/whanxueyu/demo-collection?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/whanxueyu/demo-collection?style=flat-square&labelColor=eeff00"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/whanxueyu/demo-collection?style=flat-square&labelColor=00dddd"/></td>
       <td>炫酷的效果，全景VR，cesium案例，数据大屏案例，ORC文字识别</td>
     </tr>
     <tr>
       <td><a href="https://github.com/whanxueyu/cyberpunk-ui"><b>🔮 cyberpunk-ui</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/whanxueyu/cyberpunk-ui?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/whanxueyu/cyberpunk-ui?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/whanxueyu/cyberpunk-ui?style=flat-square&labelColor=ddee00"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/whanxueyu/cyberpunk-ui?style=flat-square&labelColor=00cccc"/></td>
       <td>一个赛博朋克风格的组件库，目前十几个组件，正在完善...</td>
     </tr>
     <tr>
       <td><a href="https://github.com/whanxueyu/axy-cesium"><b>💼 axy-cesium</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/whanxueyu/axy-cesium?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/whanxueyu/axy-cesium?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/whanxueyu/axy-cesium?style=flat-square&labelColor=ccdd00"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/whanxueyu/axy-cesium?style=flat-square&labelColor=00bbbb"/></td>
       <td>Cesium可视化案例展示平台，写了些cesium功能案例，持续更新功能</td>
     </tr>
     <tr>
       <td><a href="https://github.com/whanxueyu/vue-free-dialog"><b>⚛️ vue-free-dialog</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/whanxueyu/vue-free-dialog?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/whanxueyu/vue-free-dialog?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/whanxueyu/vue-free-dialog?style=flat-square&labelColor=cccc00"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/whanxueyu/vue-free-dialog?style=flat-square&labelColor=00aaaa"/></td>
       <td>一个轻量级、高自由度弹窗组件，支持拖拽、缩放、折叠、动画等丰富功能。</td>
     </tr>
   </tbody>
