@@ -63,27 +63,27 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/whanxueyu/demo-collection"><b>🎨 demo-collection</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/whanxueyu/demo-collection?style=flat-square&labelColor=eeff00"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/whanxueyu/demo-collection?style=flat-square&labelColor=00dddd"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/whanxueyu/demo-collection?style=flat-square&labelColor=ffee00"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/whanxueyu/demo-collection?style=flat-square&labelColor=118822"/></td>
       <td>炫酷的效果，全景VR，cesium案例，数据大屏案例，ORC文字识别</td>
     </tr>
     <tr>
       <td><a href="https://github.com/whanxueyu/cyberpunk-ui"><b>🔮 cyberpunk-ui</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/whanxueyu/cyberpunk-ui?style=flat-square&labelColor=ddee00"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/whanxueyu/cyberpunk-ui?style=flat-square&labelColor=00cccc"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/whanxueyu/cyberpunk-ui?style=flat-square&labelColor=ffee00"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/whanxueyu/cyberpunk-ui?style=flat-square&labelColor=118822"/></td>
       <td>一个赛博朋克风格的组件库，目前十几个组件，正在完善...</td>
     </tr>
     <tr>
       <td><a href="https://github.com/whanxueyu/axy-cesium"><b>💼 axy-cesium</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/whanxueyu/axy-cesium?style=flat-square&labelColor=ccdd00"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/whanxueyu/axy-cesium?style=flat-square&labelColor=00bbbb"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/whanxueyu/axy-cesium?style=flat-square&labelColor=ffee00"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/whanxueyu/axy-cesium?style=flat-square&labelColor=118822"/></td>
       <td>Cesium可视化案例展示平台，写了些cesium功能案例，持续更新功能</td>
     </tr>
     <tr>
       <td><a href="https://github.com/whanxueyu/vue-free-dialog"><b>⚛️ vue-free-dialog</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/whanxueyu/vue-free-dialog?style=flat-square&labelColor=cccc00"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/whanxueyu/vue-free-dialog?style=flat-square&labelColor=00aaaa"/></td>
-      <td>一个轻量级、高自由度弹窗组件，支持拖拽、缩放、折叠、动画等丰富功能。</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/whanxueyu/vue-free-dialog?style=flat-square&labelColor=ffee00"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/whanxueyu/vue-free-dialog?style=flat-square&labelColor=118822"/></td>
+      <td>一个轻量灵活的弹窗组件，支持拖拽、缩放、折叠、动画等丰富功能。</td>
     </tr>
   </tbody>
 </table>
