@@ -43,15 +43,38 @@
   <img src="https://img.shields.io/badge/Cesium-20939a?style=for-the-badge&logo=cesium&logoColor=white" />
   <br><br>
   <!-- GitHub 统计 -->
-  <img src="https://streak-stats.demolab.com/?user=whanxueyu&theme=jolly&border=61dafb&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=whanxueyu&show_icons=true&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: tokyonight)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=whanxueyu&show_icons=true"
+      media="(prefers-color-scheme: tokyonight), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=whanxueyu&show_icons=true&theme=tokyonight&hide_border=true" />
+  </picture>
+  <img src="https://streak-stats.demolab.com/?user=whanxueyu&theme=tokyonight&border=61dafb&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <hr>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=whanxueyu&theme=vue&bg_color=311a3b&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=whanxueyu&theme=vue&bg_color=111a3b&hide_border=true" width="100%"/>
 <h2 align="center">👨‍💻 精选项目 👨‍💻</h2>
 <br>
 <div align="center">
-<table>
+  <a href="https://github.com/whanxueyu/demo-collection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=whanxueyu&repo=demo-collection&cache_seconds=86400&theme=tokyonight" alt="demo-collection" />
+  </a>
+  <a href="https://github.com/whanxueyu/demo-collection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=whanxueyu&repo=cyberpunk-ui&cache_seconds=86400&theme=tokyonight" alt="cyberpunk-ui" />
+  </a>
+  <a href="https://github.com/whanxueyu/demo-collection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=whanxueyu&repo=axy-cesium&cache_seconds=86400&theme=tokyonight" alt="axy-cesium" />
+  </a>
+  <a href="https://github.com/whanxueyu/demo-collection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=whanxueyu&repo=vue-free-dialog&cache_seconds=86400&theme=tokyonight" alt="vue-free-dialog" />
+  </a>
+<!-- <table>
   <thead align="center">
     <tr>
       <td><b>🎁 项目名称</b></td>
@@ -86,7 +109,7 @@
       <td>一个轻量灵活的弹窗组件，支持拖拽、缩放、折叠、动画等丰富功能。</td>
     </tr>
   </tbody>
-</table>
+</table> -->
 </div>
 <br/>
 
