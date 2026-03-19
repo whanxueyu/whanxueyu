@@ -65,13 +65,13 @@
   <a href="https://github.com/whanxueyu/demo-collection">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=whanxueyu&repo=demo-collection&cache_seconds=86400&theme=tokyonight" alt="demo-collection" />
   </a>
-  <a href="https://github.com/whanxueyu/demo-collection">
+  <a href="https://github.com/whanxueyu/cyberpunk-ui">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=whanxueyu&repo=cyberpunk-ui&cache_seconds=86400&theme=tokyonight" alt="cyberpunk-ui" />
   </a>
-  <a href="https://github.com/whanxueyu/demo-collection">
+  <a href="https://github.com/whanxueyu/axy-cesium">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=whanxueyu&repo=axy-cesium&cache_seconds=86400&theme=tokyonight" alt="axy-cesium" />
   </a>
-  <a href="https://github.com/whanxueyu/demo-collection">
+  <a href="https://github.com/whanxueyu/vue-free-dialog">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=whanxueyu&repo=vue-free-dialog&cache_seconds=86400&theme=tokyonight" alt="vue-free-dialog" />
   </a>
 <!-- <table>
