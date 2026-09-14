@@ -1,0 +1,92 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Repository stars overview for whanxueyu</title>
+  <desc id="desc">Original public repositories generated from GitHub public repository data.</desc>
+  <defs>
+    <linearGradient id="card" x1="48" y1="34" x2="1152" y2="326" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0F172A"/>
+      <stop offset="0.55" stop-color="#172554"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="350" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5EEAD4"/>
+      <stop offset="0.52" stop-color="#FACC15"/>
+      <stop offset="1" stop-color="#FB7185"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#020617" flood-opacity="0.26"/>
+    </filter>
+    <style>
+      .label { fill: #94A3B8; font: 600 15px Arial, sans-serif; letter-spacing: 0; }
+      .title { fill: #F8FAFC; font: 800 32px Arial, sans-serif; letter-spacing: 0; }
+      .value { fill: #F8FAFC; font: 800 38px Arial, sans-serif; letter-spacing: 0; }
+      .subtle { fill: #CBD5E1; font: 500 16px Arial, sans-serif; letter-spacing: 0; }
+      .row-name { fill: #E2E8F0; font: 700 17px Arial, sans-serif; letter-spacing: 0; }
+      .row-count { fill: #CBD5E1; font: 600 15px Arial, sans-serif; letter-spacing: 0; }
+      .bar-bg { fill: #1E293B; }
+      .bar-fill { fill: url(#line); }
+      .pill { fill: #0B1220; stroke: #334155; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="430" rx="18" fill="#020617"/>
+  <g filter="url(#shadow)">
+    <rect x="48" y="34" width="1104" height="362" rx="18" fill="url(#card)" stroke="#334155"/>
+  </g>
+
+  <text x="66" y="86" class="title">Repository Star Overview</text>
+  <text x="66" y="116" class="subtle">Original public repositories | Source: GitHub API | 7 public repos visible</text>
+
+  <g transform="translate(66 142)">
+    <rect width="210" height="82" rx="12" class="pill"/>
+    <text x="22" y="31" class="label">Total Stars</text>
+    <text x="22" y="68" class="value">220</text>
+  </g>
+  <g transform="translate(296 142)">
+    <rect width="210" height="82" rx="12" class="pill"/>
+    <text x="22" y="31" class="label">Total Forks</text>
+    <text x="22" y="68" class="value">41</text>
+  </g>
+  <g transform="translate(526 142)">
+    <rect width="210" height="82" rx="12" class="pill"/>
+    <text x="22" y="31" class="label">Measured Repos</text>
+    <text x="22" y="68" class="value">6</text>
+  </g>
+  <g transform="translate(756 142)">
+    <rect width="330" height="82" rx="12" class="pill"/>
+    <text x="22" y="31" class="label">Main Languages</text>
+    <text x="22" y="64" class="subtle">Vue / JavaScript</text>
+  </g>
+
+  <text x="66" y="256" class="label">Top Starred Repositories</text>
+  
+        <text x="66" y="288" class="row-name">1. demo-collection</text>
+        <rect x="390" y="277" width="350" height="10" rx="5" class="bar-bg"/>
+        <rect x="390" y="277" width="350" height="10" rx="5" class="bar-fill"/>
+        <text x="762" y="288" class="row-count">163 stars</text>
+        <text x="890" y="288" class="row-count">31 forks</text>
+      
+        <text x="66" y="314" class="row-name">2. cyberpunk-ui</text>
+        <rect x="390" y="303" width="350" height="10" rx="5" class="bar-bg"/>
+        <rect x="390" y="303" width="62" height="10" rx="5" class="bar-fill"/>
+        <text x="762" y="314" class="row-count">29 stars</text>
+        <text x="890" y="314" class="row-count">5 forks</text>
+      
+        <text x="66" y="340" class="row-name">3. axy-cesium</text>
+        <rect x="390" y="329" width="350" height="10" rx="5" class="bar-bg"/>
+        <rect x="390" y="329" width="54" height="10" rx="5" class="bar-fill"/>
+        <text x="762" y="340" class="row-count">25 stars</text>
+        <text x="890" y="340" class="row-count">5 forks</text>
+      
+        <text x="66" y="366" class="row-name">4. mars3d-sdk-demo</text>
+        <rect x="390" y="355" width="350" height="10" rx="5" class="bar-bg"/>
+        <rect x="390" y="355" width="6" height="10" rx="5" class="bar-fill"/>
+        <text x="762" y="366" class="row-count">1 star</text>
+        <text x="890" y="366" class="row-count">0 forks</text>
+      
+        <text x="66" y="392" class="row-name">5. vue-free-dialog</text>
+        <rect x="390" y="381" width="350" height="10" rx="5" class="bar-bg"/>
+        <rect x="390" y="381" width="6" height="10" rx="5" class="bar-fill"/>
+        <text x="762" y="392" class="row-count">1 star</text>
+        <text x="890" y="392" class="row-count">0 forks</text>
+      
+</svg>

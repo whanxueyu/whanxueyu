@@ -1,95 +1,116 @@
-<h1 align="center">
-  <a href="https://github.com/whanxueyu">
-    <img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+whanxueyu....;Nice+to+meet+you!&weight=900&size=30&pause=2000&color=F4F7CA&background=1D477B&center=true&vCenter=true">
-  </a>
-</h1>
-<a href="https://axydemo.netlify.app">
-  <img align="left" alt="Netlify" src="https://img.shields.io/netlify/5caeca9f-882f-477e-813c-9ca1e77a35f1?style=for-the-badge&label=demo-collection">
-</a>
-<img height="28px" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=whanxueyu.demo-collection&left_color=blue&right_color=yellow">
-<br>
-<h5 align="center">
-  <code><a href="https://juejin.cn/user/4169764191092407" title="juejin Profile"><img height="22" width="22" src="images/juejin_fill.svg"> 稀土掘金</a></code>
-<!--   <code><a href="https://www.douyin.com" title="douyin"><img width="22" src="images/douyin.svg"> DouYin</a></code>
-  <code><a href="https://gitee.com/whaxy" title="Gitee Profile"><img width="22" src="images/gitee.svg"> Gitee</a></code> -->
-</h5>
-<br>
-<p align="center">
-  Hi, I'm whanxueyu, Computer Engineer & Software Developer from China.
-  <br>
-  💻 I mainly use Vue, familiar with JavaScript and TypeScript, but also can use nodejs to write some back-end business.
-  <br>
-  😄 My hobby is to raise fish,Especially snakehead fish.
-  <br>
-  🌱 I am currently learning webgl technologies such as cesium and 3D.
-  <br>
-  📚 Next, I want to learn AI-related knowledge and back-end languages, such as GO and Java.
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/whanxueyu/whanxueyu/issues" title="Issues">Here</a>
-  <br>
-</p>
+<!--
+Profile README stability note:
+- Visual assets are stored locally in ./images.
+- Third-party generated image badges are intentionally avoided.
+-->
 
-<h2 align="center">⚡ 技术栈 & 统计 ⚡</h2>
-<br>
-<p align="center">
-  <!-- 技术栈徽章 -->
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Three.js-612a6b?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebGL-ff3333?style=for-the-badge&logo=webgl&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cesium-20939a?style=for-the-badge&logo=cesium&logoColor=white" />
-  <br><br>
-  <!-- GitHub 统计 -->
-  <img src="https://streak-stats.demolab.com/?user=whanxueyu&theme=jolly&border=61dafb&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<hr>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=whanxueyu&theme=vue&bg_color=311a3b&hide_border=true" width="100%"/>
-<h2 align="center">👨‍💻 精选项目 👨‍💻</h2>
-<br>
 <div align="center">
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>🎁 项目名称</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Describe</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/whanxueyu/demo-collection"><b>🎨 demo-collection</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/whanxueyu/demo-collection?style=flat-square&labelColor=ffee00"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/whanxueyu/demo-collection?style=flat-square&labelColor=118822"/></td>
-      <td>炫酷的效果，全景VR，cesium案例，数据大屏案例，ORC文字识别</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/whanxueyu/cyberpunk-ui"><b>🔮 cyberpunk-ui</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/whanxueyu/cyberpunk-ui?style=flat-square&labelColor=ffee00"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/whanxueyu/cyberpunk-ui?style=flat-square&labelColor=118822"/></td>
-      <td>一个赛博朋克风格的组件库，目前十几个组件，正在完善...</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/whanxueyu/axy-cesium"><b>💼 axy-cesium</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/whanxueyu/axy-cesium?style=flat-square&labelColor=ffee00"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/whanxueyu/axy-cesium?style=flat-square&labelColor=118822"/></td>
-      <td>Cesium可视化案例展示平台，写了些cesium功能案例，持续更新功能</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/whanxueyu/vue-free-dialog"><b>⚛️ vue-free-dialog</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/whanxueyu/vue-free-dialog?style=flat-square&labelColor=ffee00"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/whanxueyu/vue-free-dialog?style=flat-square&labelColor=118822"/></td>
-      <td>一个轻量灵活的弹窗组件，支持拖拽、缩放、折叠、动画等丰富功能。</td>
-    </tr>
-  </tbody>
-</table>
+  <a href="https://github.com/whanxueyu">
+    <img src="./images/profile-header.svg" alt="whanxueyu - Frontend, WebGL and Cesium developer" width="100%" />
+  </a>
 </div>
-<br/>
 
-<h4 align="center">
-  <a href="https://github.com/whanxueyu?tab=repositories" title="Show Repositories">🔎 查看更多项目 🔍</a>
-</h4>
+<h3 align="center">Hi, I'm whanxueyu</h3>
+
+<p align="center">
+  Computer Engineer & Software Developer from China.<br>
+  I mainly work with Vue, JavaScript, TypeScript and Node.js, and I am exploring WebGL, Cesium, AI, Python,Go and Java.
+</p>
+
+<p align="center">
+  <a href="https://github.com/whanxueyu?tab=repositories">Repositories</a>
+  |
+  <a href="https://axydemo.netlify.app">Demo Collection</a>
+  |
+  <a href="https://juejin.cn/user/4169764191092407">Juejin</a>
+  |
+  <a href="https://github.com/whanxueyu/whanxueyu/issues">Issues</a>
+</p>
+
+## 技术栈
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="./images/vue.svg" width="36" height="36" alt="Vue"><br>
+      Vue
+    </td>
+    <td align="center" width="96">
+      <img src="./images/JavaScript.svg" width="36" height="36" alt="JavaScript"><br>
+      JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="./images/typescript.svg" width="36" height="36" alt="TypeScript"><br>
+      TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="./images/nodejs.svg" width="36" height="36" alt="Node.js"><br>
+      Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="./images/webgl.svg" width="36" height="36" alt="WebGL"><br>
+      WebGL
+    </td>
+    <td align="center" width="96">
+      <img src="./images/cesium.svg" width="36" height="36" alt="Cesium"><br>
+      Cesium
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="./images/html5.svg" width="36" height="36" alt="HTML5"><br>
+      HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="./images/css.svg" width="36" height="36" alt="CSS"><br>
+      CSS
+    </td>
+    <td align="center" width="96">
+      <img src="./images/sass.svg" width="36" height="36" alt="Sass"><br>
+      Sass
+    </td>
+    <td align="center" width="96">
+      <img src="./images/git.svg" width="36" height="36" alt="Git"><br>
+      Git
+    </td>
+    <td align="center" width="96">
+      <img src="./images/vscode.svg" width="36" height="36" alt="VS Code"><br>
+      VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="./images/WebGIS.svg" width="36" height="36" alt="WebGIS"><br>
+      WebGIS
+    </td>
+  </tr>
+</table>
+
+## 仓库统计
+
+<!-- Run `node scripts/update-repo-stats.mjs` to refresh this local stats image. -->
+<p align="center">
+  <img src="./images/repo-stars.svg" alt="Repository star and fork overview" width="100%" />
+</p>
+
+## 当前关注
+
+| Direction | What I am building |
+| --- | --- |
+| Frontend Engineering | Vue component patterns, TypeScript DX, reusable UI logic |
+| 3D & Map Visualization | WebGL, Cesium demos, data visualization scenes |
+| Backend Basics | Node.js services now; Go and Java as the next step |
+| AI Learning | Practical AI tooling for coding, product ideas and workflows |
+
+## 精选项目
+
+| Project | Focus | Description |
+| --- | --- | --- |
+| [demo-collection](https://github.com/whanxueyu/demo-collection) | Creative demos | 收集前端效果、全景 VR、Cesium 案例、数据大屏和 OCR 示例。 |
+| [cyberpunk-ui](https://github.com/whanxueyu/cyberpunk-ui) | Component library | 一个赛博朋克风格的组件库，持续完善组件和交互细节。 |
+| [axy-cesium](https://github.com/whanxueyu/axy-cesium) | Cesium platform | Cesium 可视化案例展示平台，沉淀常见功能和业务场景。 |
+| [vue-free-dialog](https://github.com/whanxueyu/vue-free-dialog) | Vue component | 轻量灵活的弹窗组件，支持拖拽、缩放、折叠和动画。 |
+
+## 联系
+
+<p>
+  欢迎通过 <a href="https://github.com/whanxueyu/whanxueyu/issues">Issues</a> 交流问题，也可以在 <a href="https://juejin.cn/user/4169764191092407">掘金</a> 找到我。
+</p>
