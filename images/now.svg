@@ -1,0 +1,69 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Currently focusing on</title>
+  <desc id="desc">What whanxueyu is currently building and exploring.</desc>
+  <defs>
+    <linearGradient id="panel" x1="56" y1="24" x2="1144" y2="396" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="0.6" stop-color="#0E1830"/>
+      <stop offset="1" stop-color="#0A1120"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="56" y1="0" x2="1144" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5EEAD4"/>
+      <stop offset="0.48" stop-color="#FACC15"/>
+      <stop offset="1" stop-color="#FB7185"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#020617" flood-opacity="0.3"/>
+    </filter>
+    <style>
+      .title { fill: #F8FAFC; font: 800 26px "Segoe UI", Arial, sans-serif; }
+      .sub { fill: #64748B; font: 600 13px Consolas, Menlo, monospace; }
+      .rank { fill: #5EEAD4; font: 700 14px Consolas, Menlo, monospace; }
+      .direction { fill: #F1F5F9; font: 700 17px "Segoe UI", Arial, sans-serif; }
+      .desc { fill: #94A3B8; font: 500 14px "Segoe UI", Arial, sans-serif; }
+      .status { fill: #CBD5E1; font: 600 12.5px Consolas, Menlo, monospace; letter-spacing: 1px; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="420" rx="20" fill="#020617"/>
+  <g filter="url(#shadow)">
+    <rect x="56" y="24" width="1088" height="376" rx="18" fill="url(#panel)" stroke="#2A3A52"/>
+  </g>
+  <rect x="20" y="0" width="1160" height="3" rx="1.5" fill="url(#accent)" opacity="0.85"/>
+
+  <text x="84" y="72" class="title">当前关注 · Now</text>
+  <text x="1130" y="68" text-anchor="end" class="sub">what I am building</text>
+  <line x1="84" y1="88" x2="1116" y2="88" stroke="#1E293B"/>
+
+  <!-- row 1 -->
+  <rect x="84" y="104" width="1032" height="60" rx="12" fill="#0D1526" stroke="#1F2C44"/>
+  <text x="104" y="139" text-anchor="middle" class="rank">01</text>
+  <text x="128" y="130" class="direction">Frontend Engineering</text>
+  <text x="128" y="149" class="desc">Vue component patterns, TypeScript DX, reusable UI logic</text>
+  <circle cx="1045" cy="134" r="4" fill="#5EEAD4"/>
+  <text x="1130" y="139" text-anchor="end" class="status">IN PROGRESS</text>
+
+  <!-- row 2 -->
+  <rect x="84" y="174" width="1032" height="60" rx="12" fill="#0D1526" stroke="#1F2C44"/>
+  <text x="104" y="209" text-anchor="middle" class="rank" fill="#FACC15">02</text>
+  <text x="128" y="200" class="direction">3D &amp; Map Visualization</text>
+  <text x="128" y="219" class="desc">WebGL, Cesium demos, data visualization scenes</text>
+  <circle cx="1045" cy="204" r="4" fill="#FACC15"/>
+  <text x="1130" y="209" text-anchor="end" class="status">IN PROGRESS</text>
+
+  <!-- row 3 -->
+  <rect x="84" y="244" width="1032" height="60" rx="12" fill="#0D1526" stroke="#1F2C44"/>
+  <text x="104" y="279" text-anchor="middle" class="rank" fill="#FB7185">03</text>
+  <text x="128" y="270" class="direction">Backend Basics</text>
+  <text x="128" y="289" class="desc">Node.js services now; Go and Java as the next step</text>
+  <circle cx="1072" cy="274" r="4" fill="#FB7185"/>
+  <text x="1130" y="279" text-anchor="end" class="status">NEXT UP</text>
+
+  <!-- row 4 -->
+  <rect x="84" y="314" width="1032" height="60" rx="12" fill="#0D1526" stroke="#1F2C44"/>
+  <text x="104" y="349" text-anchor="middle" class="rank" fill="#A78BFA">04</text>
+  <text x="128" y="340" class="direction">AI Learning</text>
+  <text x="128" y="359" class="desc">Practical AI tooling for coding, product ideas and workflows</text>
+  <circle cx="1058" cy="344" r="4" fill="#A78BFA"/>
+  <text x="1130" y="349" text-anchor="end" class="status">EXPLORING</text>
+</svg>

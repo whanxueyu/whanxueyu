@@ -1,0 +1,160 @@
+<svg width="1200" height="770" viewBox="0 0 1200 770" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Repository showcase for whanxueyu</title>
+  <desc id="desc">Stars, forks and a locally computed score for demo-collection, cyberpunk-ui, axy-cesium. Only these pinned repositories are counted.</desc>
+  <defs>
+    <linearGradient id="panel" x1="56" y1="24" x2="1144" y2="746" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="0.6" stop-color="#0E1830"/>
+      <stop offset="1" stop-color="#0A1120"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="56" y1="0" x2="1144" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5EEAD4"/>
+      <stop offset="0.48" stop-color="#FACC15"/>
+      <stop offset="1" stop-color="#FB7185"/>
+    </linearGradient>
+    <linearGradient id="starFill" x1="0" y1="-11" x2="0" y2="11" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FDE68A"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#020617" flood-opacity="0.3"/>
+    </filter>
+    <g id="star">
+      <path d="M0,-10.5 L2.47,-3.40 L9.99,-3.24 L3.99,1.30 L6.17,8.49 L0,4.20 L-6.17,8.49 L-3.99,1.30 L-9.99,-3.24 L-2.47,-3.40 Z"/>
+    </g>
+    <clipPath id="halfClip"><rect x="-11" y="-12" width="11" height="24"/></clipPath>
+    <style>
+      .title { fill: #F8FAFC; font: 800 26px "Segoe UI", Arial, sans-serif; }
+      .sub { fill: #64748B; font: 600 13px Consolas, Menlo, monospace; }
+      .pill-label { fill: #64748B; font: 700 12px "Segoe UI", Arial, sans-serif; letter-spacing: 2px; }
+      .pill-value { fill: #F1F5F9; font: 800 28px "Segoe UI", Arial, sans-serif; }
+      .footer { fill: #475569; font: 600 12px Consolas, Menlo, monospace; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="770" rx="20" fill="#020617"/>
+  <g filter="url(#shadow)">
+    <rect x="56" y="24" width="1088" height="726" rx="18" fill="url(#panel)" stroke="#2A3A52"/>
+  </g>
+  <rect x="20" y="0" width="1160" height="3" rx="1.5" fill="url(#accent)" opacity="0.85"/>
+
+  <text x="84" y="72" class="title">Featured Repositories</text>
+  <text x="1130" y="68" text-anchor="end" class="sub">3 pinned repos · score = stars · forks · watchers · activity</text>
+
+  <g transform="translate(84 104)">
+    <rect width="324" height="86" rx="14" fill="#0E1830" stroke="#233049"/>
+    <text x="22" y="32" class="pill-label">TOTAL STARS</text>
+    <text x="22" y="66" class="pill-value">217</text>
+    <use href="#star" transform="translate(290 44) scale(0.9)" fill="url(#starFill)"/>
+  </g>
+  <g transform="translate(428 104)">
+    <rect width="324" height="86" rx="14" fill="#0E1830" stroke="#233049"/>
+    <text x="22" y="32" class="pill-label">TOTAL FORKS</text>
+    <text x="22" y="66" class="pill-value">41</text>
+    <g transform="translate(292 44)" fill="none" stroke="#94A3B8" stroke-width="1.8">
+      <circle cx="-5" cy="-6" r="2.8"/>
+      <circle cx="-5" cy="7" r="2.8"/>
+      <circle cx="6.5" cy="-4" r="2.8"/>
+      <path d="M-5 -3.2 V 4.2 M-5 0.5 C -1.5 0.5 3 -0.6 3.8 -2.8" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(772 104)">
+    <rect width="324" height="86" rx="14" fill="#0E1830" stroke="#233049"/>
+    <text x="22" y="32" class="pill-label">AVG SCORE</text>
+    <text x="22" y="66" class="pill-value">69<tspan font-size="14" font-weight="600" fill="#64748B">/100</tspan></text>
+    <use href="#star" transform="translate(290 44) scale(0.9)" fill="none" stroke="#64748B" stroke-width="1.6"/>
+  </g>
+
+  <line x1="84" y1="210" x2="1116" y2="210" stroke="#1E293B"/>
+
+  
+    <rect x="56" y="226" width="1088" height="156" rx="14" fill="#0D1526" stroke="#1F2C44"/>
+    <rect x="76" y="282" width="3" height="44" rx="1.5" fill="#5EEAD4"/>
+    <text x="92" y="310" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="15" font-weight="700" fill="#5EEAD4">01</text>
+
+    <text x="122" y="276" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="800" fill="#F1F5F9">demo-collection</text>
+    <text x="122" y="308" font-family="Segoe UI, Arial, sans-serif" font-size="15.5" fill="#94A3B8">赛博朋克的按钮文字、全景VR，cesium案例、数据大屏案例，本地ORC文字识别，欢迎star</text>
+
+    <circle cx="124" cy="338.5" r="5" fill="#F1E05A"/>
+    <text x="136" y="343" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#CBD5E1">JavaScript</text>
+    <text x="232" y="343" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#334155">·</text>
+    <use href="#star" transform="translate(256 338.5) scale(0.6)" fill="#FACC15"/>
+    <text x="276" y="343" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#CBD5E1">163</text>
+    <text x="318" y="343" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#334155">·</text>
+    <g transform="translate(340 338.5)" fill="none" stroke="#94A3B8" stroke-width="1.6">
+      <circle cx="-5" cy="-6" r="2.6"/>
+      <circle cx="-5" cy="7" r="2.6"/>
+      <circle cx="6.5" cy="-4" r="2.6"/>
+      <path d="M-5 -3.4 V 4.4 M-5 0.5 C -1.5 0.5 3 -0.5 3.9 -2.9" stroke-linecap="round"/>
+    </g>
+    <text x="360" y="343" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#CBD5E1">31</text>
+    <text x="404" y="343" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#334155">·</text>
+    <text x="424" y="343" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#64748B">updated 11mo ago</text>
+
+    <text x="1130" y="276" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="2" fill="#64748B">REPO SCORE</text>
+    <use href="#star" transform="translate(1119 304)" fill="url(#starFill)"/><use href="#star" transform="translate(1089 304)" fill="url(#starFill)"/><use href="#star" transform="translate(1059 304)" fill="url(#starFill)"/><use href="#star" transform="translate(1029 304)" fill="url(#starFill)"/><use href="#star" transform="translate(999 304)" fill="#141E30" stroke="#475569" stroke-width="1.4"/>
+    <text x="1130" y="348" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">
+      <tspan font-size="30" font-weight="800" fill="#F8FAFC">79</tspan><tspan font-size="14" font-weight="600" fill="#64748B">/100</tspan>
+    </text>
+  
+    <rect x="56" y="396" width="1088" height="156" rx="14" fill="#0D1526" stroke="#1F2C44"/>
+    <rect x="76" y="452" width="3" height="44" rx="1.5" fill="#FACC15"/>
+    <text x="92" y="480" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="15" font-weight="700" fill="#FACC15">02</text>
+
+    <text x="122" y="446" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="800" fill="#F1F5F9">cyberpunk-ui</text>
+    <text x="122" y="478" font-family="Segoe UI, Arial, sans-serif" font-size="15.5" fill="#94A3B8">准备做一个赛博朋克风格组件库，目前已有十几个炫酷的组件，后续组件正在开发中...</text>
+
+    <circle cx="124" cy="508.5" r="5" fill="#41B883"/>
+    <text x="136" y="513" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#CBD5E1">Vue</text>
+    <text x="232" y="513" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#334155">·</text>
+    <use href="#star" transform="translate(256 508.5) scale(0.6)" fill="#FACC15"/>
+    <text x="276" y="513" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#CBD5E1">29</text>
+    <text x="318" y="513" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#334155">·</text>
+    <g transform="translate(340 508.5)" fill="none" stroke="#94A3B8" stroke-width="1.6">
+      <circle cx="-5" cy="-6" r="2.6"/>
+      <circle cx="-5" cy="7" r="2.6"/>
+      <circle cx="6.5" cy="-4" r="2.6"/>
+      <path d="M-5 -3.4 V 4.4 M-5 0.5 C -1.5 0.5 3 -0.5 3.9 -2.9" stroke-linecap="round"/>
+    </g>
+    <text x="360" y="513" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#CBD5E1">5</text>
+    <text x="404" y="513" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#334155">·</text>
+    <text x="424" y="513" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#64748B">updated 2mo ago</text>
+
+    <text x="1130" y="446" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="2" fill="#64748B">REPO SCORE</text>
+    <use href="#star" transform="translate(1119 474)" fill="url(#starFill)"/><use href="#star" transform="translate(1089 474)" fill="url(#starFill)"/><use href="#star" transform="translate(1059 474)" fill="url(#starFill)"/><use href="#star" transform="translate(1029 474)" fill="#141E30" stroke="#475569" stroke-width="1.4"/><use href="#star" transform="translate(999 474)" fill="#141E30" stroke="#475569" stroke-width="1.4"/>
+    <text x="1130" y="518" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">
+      <tspan font-size="30" font-weight="800" fill="#F8FAFC">63</tspan><tspan font-size="14" font-weight="600" fill="#64748B">/100</tspan>
+    </text>
+  
+    <rect x="56" y="566" width="1088" height="156" rx="14" fill="#0D1526" stroke="#1F2C44"/>
+    <rect x="76" y="622" width="3" height="44" rx="1.5" fill="#FB7185"/>
+    <text x="92" y="650" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="15" font-weight="700" fill="#FB7185">03</text>
+
+    <text x="122" y="616" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="800" fill="#F1F5F9">axy-cesium</text>
+    <text x="122" y="648" font-family="Segoe UI, Arial, sans-serif" font-size="15.5" fill="#94A3B8">axy-cesium 是一个综合的 Cesium 的案例展示平台，帮助开发者学习和掌握 Cesium 的使用…</text>
+
+    <circle cx="124" cy="678.5" r="5" fill="#41B883"/>
+    <text x="136" y="683" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#CBD5E1">Vue</text>
+    <text x="232" y="683" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#334155">·</text>
+    <use href="#star" transform="translate(256 678.5) scale(0.6)" fill="#FACC15"/>
+    <text x="276" y="683" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#CBD5E1">25</text>
+    <text x="318" y="683" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#334155">·</text>
+    <g transform="translate(340 678.5)" fill="none" stroke="#94A3B8" stroke-width="1.6">
+      <circle cx="-5" cy="-6" r="2.6"/>
+      <circle cx="-5" cy="7" r="2.6"/>
+      <circle cx="6.5" cy="-4" r="2.6"/>
+      <path d="M-5 -3.4 V 4.4 M-5 0.5 C -1.5 0.5 3 -0.5 3.9 -2.9" stroke-linecap="round"/>
+    </g>
+    <text x="360" y="683" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#CBD5E1">5</text>
+    <text x="404" y="683" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#334155">·</text>
+    <text x="424" y="683" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#64748B">updated 3d ago</text>
+
+    <text x="1130" y="616" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="2" fill="#64748B">REPO SCORE</text>
+    <use href="#star" transform="translate(1119 644)" fill="url(#starFill)"/><use href="#star" transform="translate(1089 644)" fill="url(#starFill)"/><use href="#star" transform="translate(1059 644)" fill="url(#starFill)"/><use href="#star" transform="translate(1029 644)" fill="#141E30" stroke="#475569" stroke-width="1.4"/><use href="#star" transform="translate(999 644)" fill="#141E30" stroke="#475569" stroke-width="1.4"/>
+    <text x="1130" y="688" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">
+      <tspan font-size="30" font-weight="800" fill="#F8FAFC">64</tspan><tspan font-size="14" font-weight="600" fill="#64748B">/100</tspan>
+    </text>
+  
+
+  <text x="600" y="748" text-anchor="middle" class="footer">generated 2026-09-15 · scripts/update-repo-stats.mjs · GitHub Actions daily</text>
+</svg>

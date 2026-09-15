@@ -1,0 +1,6 @@
+<svg width="112" height="40" viewBox="0 0 112 40" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Issues">
+  <rect width="112" height="40" rx="20" fill="#0B1220" stroke="#263349"/>
+  <circle cx="19" cy="20" r="7.4" fill="none" stroke="#FB7185" stroke-width="1.5"/>
+  <circle cx="19" cy="20" r="2.4" fill="#FB7185"/>
+  <text x="44" y="25" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#E2E8F0">Issues</text>
+</svg>

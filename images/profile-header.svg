@@ -3,46 +3,106 @@
   <desc id="desc">A local static profile banner for whanxueyu.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#111827"/>
-      <stop offset="0.52" stop-color="#17324A"/>
-      <stop offset="1" stop-color="#1F2937"/>
+      <stop offset="0" stop-color="#060A14"/>
+      <stop offset="0.55" stop-color="#0C1526"/>
+      <stop offset="1" stop-color="#132036"/>
     </linearGradient>
-    <linearGradient id="accent" x1="156" y1="72" x2="1044" y2="288" gradientUnits="userSpaceOnUse">
+    <radialGradient id="glowTeal" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(150 40) scale(480)">
+      <stop offset="0" stop-color="#5EEAD4" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRose" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1050 340) scale(520)">
+      <stop offset="0" stop-color="#FB7185" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#FB7185" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="72" y1="0" x2="1128" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#5EEAD4"/>
       <stop offset="0.48" stop-color="#FACC15"/>
       <stop offset="1" stop-color="#FB7185"/>
     </linearGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M 36 0 L 0 0 0 36" stroke="#94A3B8" stroke-opacity="0.13" stroke-width="1"/>
+    <linearGradient id="nameFill" x1="72" y1="104" x2="72" y2="156" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#C7D2FE"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" stroke="#64748B" stroke-opacity="0.07" stroke-width="1"/>
     </pattern>
-    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#020617" flood-opacity="0.24"/>
+    <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#020617" flood-opacity="0.4"/>
+    </filter>
+    <filter id="waveGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6"/>
     </filter>
   </defs>
 
-  <rect width="1200" height="360" rx="18" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="18" fill="url(#grid)"/>
-  <path d="M88 286L245 125L356 204L493 92L627 212L774 94L930 214L1110 84" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
-  <path d="M92 294L248 148L360 222L493 116L627 236L774 116L929 236L1108 108V310H92V294Z" fill="url(#accent)" opacity="0.08"/>
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#glowTeal)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#glowRose)"/>
 
-  <g filter="url(#softShadow)">
-    <rect x="96" y="70" width="1008" height="220" rx="16" fill="#0F172A" fill-opacity="0.76" stroke="#334155"/>
-    <rect x="126" y="100" width="14" height="14" rx="7" fill="#FB7185"/>
-    <rect x="150" y="100" width="14" height="14" rx="7" fill="#FACC15"/>
-    <rect x="174" y="100" width="14" height="14" rx="7" fill="#5EEAD4"/>
+  <!-- signature wave -->
+  <path d="M72 322 L236 200 L348 250 L464 162 L600 252 L770 174 L936 252 L1128 184" stroke="url(#accent)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" opacity="0.22" filter="url(#waveGlow)"/>
+  <path d="M72 322 L236 200 L348 250 L464 162 L600 252 L770 174 L936 252 L1128 184" stroke="url(#accent)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+  <path d="M72 322 L236 200 L348 250 L464 162 L600 252 L770 174 L936 252 L1128 184 V360 H72 Z" fill="url(#accent)" opacity="0.05"/>
 
-    <text x="126" y="154" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="800">whanxueyu</text>
-    <text x="128" y="194" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">Frontend Engineer / Software Developer</text>
-    <text x="128" y="230" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="18">Vue | TypeScript | Node.js | WebGL | Cesium</text>
+  <text x="1128" y="50" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="13" letter-spacing="1" fill="#475569">github.com/whanxueyu</text>
 
-    <g transform="translate(740 112)">
-      <rect x="0" y="0" width="292" height="132" rx="12" fill="#111827" stroke="#475569"/>
-      <path d="M34 76L82 44L130 76L82 108L34 76Z" stroke="#5EEAD4" stroke-width="4" stroke-linejoin="round"/>
-      <path d="M82 44V16L130 48V76" stroke="#FACC15" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-      <path d="M82 108V80L34 48V76" stroke="#FB7185" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-      <text x="164" y="48" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Build</text>
-      <text x="164" y="78" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="15">interactive UI</text>
-      <text x="164" y="104" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="15">3D visualization</text>
-    </g>
+  <!-- terminal prompt -->
+  <text x="72" y="90" font-family="Consolas, Menlo, monospace" font-size="15" fill="#526078">~/github-profile $</text>
+  <rect x="251" y="76" width="9" height="17" rx="2" fill="#5EEAD4"/>
+
+  <!-- name -->
+  <text x="72" y="156" font-family="Segoe UI, Arial, sans-serif" font-size="60" font-weight="800" fill="url(#nameFill)">whanxueyu</text>
+  <rect x="430" y="112" width="14" height="44" rx="3" fill="url(#accent)"/>
+
+  <!-- role -->
+  <text x="72" y="196" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">
+    <tspan fill="#E2E8F0">Frontend Engineer</tspan>
+    <tspan fill="#FB7185">  ·  </tspan>
+    <tspan fill="#94A3B8">Software Developer</tspan>
+  </text>
+
+  <!-- tech chips -->
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="14.5" font-weight="600" text-anchor="middle">
+    <rect x="72" y="222" width="55" height="34" rx="17" fill="#0E1830" stroke="#263349"/>
+    <text x="99.5" y="243.5" fill="#CBD5E1">Vue</text>
+    <rect x="137" y="222" width="110" height="34" rx="17" fill="#0E1830" stroke="#263349"/>
+    <text x="192" y="243.5" fill="#CBD5E1">TypeScript</text>
+    <rect x="257" y="222" width="87" height="34" rx="17" fill="#0E1830" stroke="#263349"/>
+    <text x="300.5" y="243.5" fill="#CBD5E1">Node.js</text>
+    <rect x="354" y="222" width="71" height="34" rx="17" fill="#0E1830" stroke="#263349"/>
+    <text x="389.5" y="243.5" fill="#CBD5E1">WebGL</text>
+    <rect x="435" y="222" width="79" height="34" rx="17" fill="#0E1830" stroke="#263349"/>
+    <text x="474.5" y="243.5" fill="#CBD5E1">Cesium</text>
+    <rect x="524" y="222" width="48" height="34" rx="17" fill="#0E1830" stroke="#263349"/>
+    <text x="548" y="243.5" fill="#CBD5E1">Go</text>
   </g>
+
+  <!-- code card -->
+  <g filter="url(#cardShadow)">
+    <rect x="658" y="92" width="470" height="198" rx="14" fill="#0A1120" fill-opacity="0.94" stroke="#263349"/>
+  </g>
+  <circle cx="682" cy="110" r="5" fill="#FB7185"/>
+  <circle cx="700" cy="110" r="5" fill="#FACC15"/>
+  <circle cx="718" cy="110" r="5" fill="#5EEAD4"/>
+  <text x="732" y="115" font-family="Consolas, Menlo, monospace" font-size="12" fill="#526078">dev.ts</text>
+
+  <text x="682" y="142" font-family="Consolas, Menlo, monospace" font-size="15">
+    <tspan fill="#FB7185">const</tspan><tspan fill="#E2E8F0"> dev </tspan><tspan fill="#64748B">= {</tspan>
+  </text>
+  <text x="682" y="167" font-family="Consolas, Menlo, monospace" font-size="15">
+    <tspan fill="#64748B">  </tspan><tspan fill="#FACC15">name</tspan><tspan fill="#64748B">: </tspan><tspan fill="#5EEAD4">"whanxueyu"</tspan><tspan fill="#64748B">,</tspan>
+  </text>
+  <text x="682" y="192" font-family="Consolas, Menlo, monospace" font-size="15">
+    <tspan fill="#64748B">  </tspan><tspan fill="#FACC15">role</tspan><tspan fill="#64748B">: </tspan><tspan fill="#5EEAD4">"frontend"</tspan><tspan fill="#64748B">,</tspan>
+  </text>
+  <text x="682" y="217" font-family="Consolas, Menlo, monospace" font-size="15">
+    <tspan fill="#64748B">  </tspan><tspan fill="#FACC15">stack</tspan><tspan fill="#64748B">: [</tspan><tspan fill="#5EEAD4">"Vue"</tspan><tspan fill="#64748B">, </tspan><tspan fill="#5EEAD4">"TS"</tspan><tspan fill="#64748B">, </tspan><tspan fill="#5EEAD4">"Cesium"</tspan><tspan fill="#64748B">],</tspan>
+  </text>
+  <text x="682" y="242" font-family="Consolas, Menlo, monospace" font-size="15">
+    <tspan fill="#64748B">  </tspan><tspan fill="#FACC15">love</tspan><tspan fill="#64748B">: </tspan><tspan fill="#5EEAD4">"creative dev &amp; 3D"</tspan><tspan fill="#64748B">,</tspan>
+  </text>
+  <text x="682" y="267" font-family="Consolas, Menlo, monospace" font-size="15">
+    <tspan fill="#64748B">};</tspan>
+  </text>
 </svg>
