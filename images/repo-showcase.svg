@@ -50,7 +50,7 @@
   <g transform="translate(428 104)">
     <rect width="324" height="86" rx="14" fill="#0E1830" stroke="#233049"/>
     <text x="22" y="32" class="pill-label">TOTAL FORKS</text>
-    <text x="22" y="66" class="pill-value">41</text>
+    <text x="22" y="66" class="pill-value">43</text>
     <g transform="translate(292 44)" fill="none" stroke="#94A3B8" stroke-width="1.8">
       <circle cx="-5" cy="-6" r="2.8"/>
       <circle cx="-5" cy="7" r="2.8"/>
@@ -87,7 +87,7 @@
       <circle cx="6.5" cy="-4" r="2.6"/>
       <path d="M-5 -3.4 V 4.4 M-5 0.5 C -1.5 0.5 3 -0.5 3.9 -2.9" stroke-linecap="round"/>
     </g>
-    <text x="360" y="343" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#CBD5E1">31</text>
+    <text x="360" y="343" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#CBD5E1">33</text>
     <text x="404" y="343" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#334155">·</text>
     <text x="424" y="343" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#64748B">updated 11mo ago</text>
 
@@ -147,7 +147,7 @@
     </g>
     <text x="360" y="683" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#CBD5E1">5</text>
     <text x="404" y="683" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#334155">·</text>
-    <text x="424" y="683" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#64748B">updated 4d ago</text>
+    <text x="424" y="683" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#64748B">updated today</text>
 
     <text x="1130" y="616" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="2" fill="#64748B">REPO SCORE</text>
     <use href="#star" transform="translate(1119 644)" fill="url(#starFill)"/><use href="#star" transform="translate(1089 644)" fill="url(#starFill)"/><use href="#star" transform="translate(1059 644)" fill="url(#starFill)"/><use href="#star" transform="translate(1029 644)" fill="#141E30" stroke="#475569" stroke-width="1.4"/><use href="#star" transform="translate(999 644)" fill="#141E30" stroke="#475569" stroke-width="1.4"/>
@@ -156,5 +156,5 @@
     </text>
   
 
-  <text x="600" y="748" text-anchor="middle" class="footer">generated 2026-09-15 · scripts/update-repo-stats.mjs · GitHub Actions daily</text>
+  <text x="600" y="748" text-anchor="middle" class="footer">generated 2026-09-16 · scripts/update-repo-stats.mjs · GitHub Actions daily</text>
 </svg>
