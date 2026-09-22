@@ -147,7 +147,7 @@
     </g>
     <text x="360" y="683" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#CBD5E1">5</text>
     <text x="404" y="683" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#334155">·</text>
-    <text x="424" y="683" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#64748B">updated today</text>
+    <text x="424" y="683" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#64748B">updated 1d ago</text>
 
     <text x="1130" y="616" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="2" fill="#64748B">REPO SCORE</text>
     <use href="#star" transform="translate(1119 644)" fill="url(#starFill)"/><use href="#star" transform="translate(1089 644)" fill="url(#starFill)"/><use href="#star" transform="translate(1059 644)" fill="url(#starFill)"/><use href="#star" transform="translate(1029 644)" fill="#141E30" stroke="#475569" stroke-width="1.4"/><use href="#star" transform="translate(999 644)" fill="#141E30" stroke="#475569" stroke-width="1.4"/>
@@ -156,5 +156,5 @@
     </text>
   
 
-  <text x="600" y="748" text-anchor="middle" class="footer">generated 2026-09-21 · scripts/update-repo-stats.mjs · GitHub Actions daily</text>
+  <text x="600" y="748" text-anchor="middle" class="footer">generated 2026-09-22 · scripts/update-repo-stats.mjs · GitHub Actions daily</text>
 </svg>
