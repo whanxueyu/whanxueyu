@@ -44,7 +44,7 @@
   <g transform="translate(84 104)">
     <rect width="324" height="86" rx="14" fill="#0E1830" stroke="#233049"/>
     <text x="22" y="32" class="pill-label">TOTAL STARS</text>
-    <text x="22" y="66" class="pill-value">219</text>
+    <text x="22" y="66" class="pill-value">220</text>
     <use href="#star" transform="translate(290 44) scale(0.9)" fill="url(#starFill)"/>
   </g>
   <g transform="translate(428 104)">
@@ -61,7 +61,7 @@
   <g transform="translate(772 104)">
     <rect width="324" height="86" rx="14" fill="#0E1830" stroke="#233049"/>
     <text x="22" y="32" class="pill-label">AVG SCORE</text>
-    <text x="22" y="66" class="pill-value">69<tspan font-size="14" font-weight="600" fill="#64748B">/100</tspan></text>
+    <text x="22" y="66" class="pill-value">68<tspan font-size="14" font-weight="600" fill="#64748B">/100</tspan></text>
     <use href="#star" transform="translate(290 44) scale(0.9)" fill="none" stroke="#64748B" stroke-width="1.6"/>
   </g>
 
@@ -89,12 +89,12 @@
     </g>
     <text x="360" y="343" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#CBD5E1">33</text>
     <text x="404" y="343" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#334155">·</text>
-    <text x="424" y="343" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#64748B">updated 12mo ago</text>
+    <text x="424" y="343" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#64748B">updated 1.0y ago</text>
 
     <text x="1130" y="276" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="2" fill="#64748B">REPO SCORE</text>
     <use href="#star" transform="translate(1119 304)" fill="url(#starFill)"/><use href="#star" transform="translate(1089 304)" fill="url(#starFill)"/><use href="#star" transform="translate(1059 304)" fill="url(#starFill)"/><use href="#star" transform="translate(1029 304)" fill="url(#starFill)"/><use href="#star" transform="translate(999 304)" fill="#141E30" stroke="#475569" stroke-width="1.4"/>
     <text x="1130" y="348" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">
-      <tspan font-size="30" font-weight="800" fill="#F8FAFC">80</tspan><tspan font-size="14" font-weight="600" fill="#64748B">/100</tspan>
+      <tspan font-size="30" font-weight="800" fill="#F8FAFC">76</tspan><tspan font-size="14" font-weight="600" fill="#64748B">/100</tspan>
     </text>
   
     <rect x="56" y="396" width="1088" height="156" rx="14" fill="#0D1526" stroke="#1F2C44"/>
@@ -137,7 +137,7 @@
     <text x="136" y="683" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#CBD5E1">Vue</text>
     <text x="232" y="683" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#334155">·</text>
     <use href="#star" transform="translate(256 678.5) scale(0.6)" fill="#FACC15"/>
-    <text x="276" y="683" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#CBD5E1">25</text>
+    <text x="276" y="683" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#CBD5E1">26</text>
     <text x="318" y="683" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#334155">·</text>
     <g transform="translate(340 678.5)" fill="none" stroke="#94A3B8" stroke-width="1.6">
       <circle cx="-5" cy="-6" r="2.6"/>
@@ -147,14 +147,14 @@
     </g>
     <text x="360" y="683" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#CBD5E1">5</text>
     <text x="404" y="683" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#334155">·</text>
-    <text x="424" y="683" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#64748B">updated 1d ago</text>
+    <text x="424" y="683" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#64748B">updated 2d ago</text>
 
     <text x="1130" y="616" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="2" fill="#64748B">REPO SCORE</text>
-    <use href="#star" transform="translate(1119 644)" fill="url(#starFill)"/><use href="#star" transform="translate(1089 644)" fill="url(#starFill)"/><use href="#star" transform="translate(1059 644)" fill="url(#starFill)"/><use href="#star" transform="translate(1029 644)" fill="#141E30" stroke="#475569" stroke-width="1.4"/><use href="#star" transform="translate(999 644)" fill="#141E30" stroke="#475569" stroke-width="1.4"/>
+    <use href="#star" transform="translate(1119 644)" fill="url(#starFill)"/><use href="#star" transform="translate(1089 644)" fill="url(#starFill)"/><use href="#star" transform="translate(1059 644)" fill="url(#starFill)"/><use href="#star" transform="translate(1029 644)" fill="#141E30" stroke="#475569" stroke-width="1.4"/><g transform="translate(1029 644)" clip-path="url(#halfClip)"><use href="#star" fill="url(#starFill)"/></g><use href="#star" transform="translate(999 644)" fill="#141E30" stroke="#475569" stroke-width="1.4"/>
     <text x="1130" y="688" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">
-      <tspan font-size="30" font-weight="800" fill="#F8FAFC">64</tspan><tspan font-size="14" font-weight="600" fill="#64748B">/100</tspan>
+      <tspan font-size="30" font-weight="800" fill="#F8FAFC">65</tspan><tspan font-size="14" font-weight="600" fill="#64748B">/100</tspan>
     </text>
   
 
-  <text x="600" y="748" text-anchor="middle" class="footer">generated 2026-09-22 · scripts/update-repo-stats.mjs · GitHub Actions daily</text>
+  <text x="600" y="748" text-anchor="middle" class="footer">generated 2026-09-23 · scripts/update-repo-stats.mjs · GitHub Actions daily</text>
 </svg>
